@@ -1,2 +1,2 @@
 # IntroPython
-First lessons on python
+First lessons in python
